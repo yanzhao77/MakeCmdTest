@@ -1,0 +1,11 @@
+.background {
+    -fx-background-color: white;
+    /*-fx-background-image: url(../images/hack.png);*/
+    -fx-background-size: cover;
+}
+
+.hacker-font {
+    -fx-font-family: 'Hack', Arial, sans-serif;
+    -fx-font-size: 20;
+    -fx-text-fill: green;
+}
